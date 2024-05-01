@@ -21,4 +21,5 @@ we have created a phone hunting page through brand name of the phone.You can vis
 1. Click on the hosting link.
 2. Mention the brand name of the phones you want to find and click on search button.
 3. Click on "Show All" button to see all available phones and their details.
-4. Click on show details to get detailed information about a specific phones.
+4. Click on show details to get a modal container all information about a specific phones.
+5. When no data found about a specific brand , it displays an alert;
